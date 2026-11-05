@@ -37,6 +37,9 @@ header{
   display: flex;
   justify-content: flex-end;
   align-items: center;
+  position: sticky;
+  top: 0;
+  z-index: 1;
 }
 
 main{
@@ -67,7 +70,7 @@ section#ficha img.foto{
   border-radius: 50%;
   overflow: hidden;
   border: 5px solid var(--fundo-card);
-  outline: 5px solid rgba(0, 0, 0, 0.049);
+  outline: 5px solid rgba(0, 0, 0, 0.331);
   display: block;
   margin: auto;
   margin-bottom: 15px;
