@@ -6,7 +6,7 @@ O objetivo foi colocar em prática os conhecimentos adquiridos ao longo das aula
 
 🌐 Demonstração
 
-Acesse o projeto publicado no GitHub Pages:
+Acesse o projeto publicado no GitHub Pages: <br>
 <a href="https://pedrohmanhaes-arch.github.io/projeto-portfolio/" target="_blank"> 
 🔗 Visualizar Portfólio
 </a>
